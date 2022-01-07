@@ -1,0 +1,22 @@
+body{
+  text-align: center;
+  background-image: url("img.jpeg");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.input-number{
+  height: 200px;
+  width: 50%;
+  font-size: 500%;
+  font-weight: bold;
+  border:2px solid rgb(135, 63, 148);
+}
+h1{
+  font-size: 300%;
+  margin-top: 5%;
+  color: rgb(14, 42, 88);
+}
+h2{
+  font-size: 300%;
+  color: rgb(104, 65, 76);
+}
